@@ -5,7 +5,7 @@
     "price": 50,
     "description": "کیف رو تو دستت بگیر همه جا ببر",
     "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "hhttps://dkstatics-public.digikala.com/digikala-products/be908c704a2e73e620bcb59e1c1c51bdf023c7d4_1727594405.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
     "rating": {
       "rate": 3.9,
       "count": 120
