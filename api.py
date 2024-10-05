@@ -5,7 +5,7 @@
     "price": 50,
     "description": "کیف رو تو دستت بگیر همه جا ببر",
     "category": "men's clothing",
-    "image": "https://images.pexels.com/photos/27750569/pexels-photo-27750569/free-photo-of-model-in-black-tube-top-and-leggings-holding-her-hat.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+    "image": "https://images.pexels.com/photos/27750569/pexels-photo-27750569/free-photo-of-model-in-black-tube-top-and-leggings-holding-her-hat.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     "rating": {
       "rate": 3.9,
       "count": 120
