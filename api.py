@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "title": "پیتزاt",
+    "title": "پیتزا",
     "price": 55.99,
     "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
     "category": "men's clothing",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "title": "قیمهt",
+    "title": "قیمه",
     "price": 15.99,
     "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
     "category": "men's clothing",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "title": "White Gold Plated Princess",
+    "title": "کوبیده",
     "price": 9.99,
     "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
     "category": "jewelery",
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "title": "زرشک پلو با مرغ",
     "price": 10.99,
     "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
     "category": "jewelery",
