@@ -137,7 +137,7 @@
     "price": 114,
     "description": " زرشک پلو با مرغ",
     "category": "electronics",
-    "image": "https://raw.githubusercontent.com/abuanwar072/E-commerce-App-UI-Flutter/refs/heads/master/assets/images/bag_6.pngg",
+    "image": "https://raw.githubusercontent.com/abuanwar072/E-commerce-App-UI-Flutter/refs/heads/master/assets/images/bag_6.png",
     "rating": {
       "rate": 4.8,
       "count": 400
