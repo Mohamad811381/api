@@ -5,7 +5,7 @@
     "price": 50,
     "description": "کیف رو تو دستت بگیر همه جا ببر",
     "category": "men's clothing",
-    "image": "hhttps://dkstatics-public.digikala.com/digikala-products/be908c704a2e73e620bcb59e1c1c51bdf023c7d4_1727594405.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "image": "https://images.pexels.com/photos/27750569/pexels-photo-27750569/free-photo-of-model-in-black-tube-top-and-leggings-holding-her-hat.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
     "rating": {
       "rate": 3.9,
       "count": 120
@@ -13,9 +13,9 @@
   },
   {
     "id": 2,
-    "title": "Mens Casual Premium Slim Fit T-Shirts ",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "title": "تیشرت خوشکل",
+    "price": 85,
+    "description": "تیشرت بپوش حال کن عزیزم",
     "category": "men's clothing",
     "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
     "rating": {
