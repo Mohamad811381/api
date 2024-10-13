@@ -11,6 +11,7 @@ products = [
 
 @app.route('/products', methods=['POST'])
 def get_products():
+    # اینجا باید از POST برای دریافت اطلاعات استفاده نکنید، از GET استفاده کنید.
     return jsonify(products)
 
 @app.route('/products/<int:product_id>', methods=['POST'])
@@ -24,6 +25,7 @@ def get_product(product_id):
 @app.route('/products', methods=['PUT'])
 def add_product():
     new_product = request.json
+    new_product['id'] = len(products) + 1  # تعیین ID جدید
     products.append(new_product)
     return jsonify(new_product), 201
 
