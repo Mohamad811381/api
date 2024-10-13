@@ -5,7 +5,7 @@
     "price": 35.99,
     "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
     "category": "غذا",
-    "image": "https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/refs/heads/master/assets/images/popular_foods/ic_popular_food_1.png",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
     "rating": {
       "rate": 4.5,
       "count": 320
