@@ -9,11 +9,11 @@ products = [
     {'id': 3, 'name': 'محصول ۳', 'price': 300}
 ]
 
-@app.route('/products', methods=['GET'])
+@app.route('/products', methods=['POST'])
 def get_products():
     return jsonify(products)
 
-@app.route('/products/<int:product_id>', methods=['GET'])
+@app.route('/products/<int:product_id>', methods=['POST'])
 def get_product(product_id):
     product = next((p for p in products if p['id'] == product_id), None)
     if product:
@@ -21,7 +21,7 @@ def get_product(product_id):
     else:
         return jsonify({'error': 'محصول پیدا نشد'}), 404
 
-@app.route('/products', methods=['POST'])
+@app.route('/products', methods=['PUT'])
 def add_product():
     new_product = request.json
     products.append(new_product)
