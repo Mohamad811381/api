@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+  {
+    "id": 2,
+    "title": "برگر گوشت",
+    "price": 25.99,
+    "description": "برگر آبدار با پنیر و سبزیجات تازه.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/beyond-meat-mcdonalds.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 3,
+    "title": "پاستا آلفردو",
+    "price": 28.50,
+    "description": "پاستای خامه‌ای با سس آلفردو و مرغ.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/beyond-meat-mcdonalds.png",
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    }
+  },
+  {
+    "id": 4,
+    "title": "سالاد سزار",
+    "price": 15.99,
+    "description": "سالاد تازه با سس سزار و تکه‌های مرغ کبابی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/beyond-meat-mcdonalds.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 180
+    }
+  },
+  {
+    "id": 5,
+    "title": "کباب کوبیده",
+    "price": 20.99,
+    "description": "کباب خوشمزه با ادویه‌های مخصوص.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/beyond-meat-mcdonalds.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  }
+]
