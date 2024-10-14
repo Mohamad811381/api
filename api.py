@@ -5,7 +5,7 @@
     "price": 50,
     "description": "کیف رو تو دستت بگیر همه جا ببر",
     "category": "men's clothing",
-    "image": "https://raw.githubusercontent.com/abuanwar072/E-commerce-App-UI-Flutter/refs/heads/master/assets/images/bag_1.png",
+    "image": "https://raw.githubusercontent.com/Mohamad811381/imagesfoodsy/refs/heads/main/1.jpg",
     "rating": {
       "rate": 3.9,
       "count": 120
