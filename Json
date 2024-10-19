@@ -58,5 +58,78 @@
       "rate": 4.8,
       "count": 400
     }
+ },
+{
+    "id": 88,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+{
+    "id": 89,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+{
+    "id": 90,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+{
+    "id": 91,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+{
+    "id": 92,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
+  },
+{
+    "id": 93,
+    "title": "پیتزا مارگاریتا",
+    "price": 35.99,
+    "description": "پیتزای خوشمزه با پنیر تازه و گوجه‌فرنگی.",
+    "category": "غذا",
+    "image": "https://raw.githubusercontent.com/abuanwar072/Food-Ordering-App/refs/heads/master/assets/images/burger.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 320
+    }
   }
+
 ]
