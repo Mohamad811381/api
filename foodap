@@ -1,0 +1,8 @@
+{
+  "title": "Food Item",
+  "price": 10.0,
+  "image": "https://example.com/image.jpg",
+  "rating": {
+    "rate": 4.5
+  }
+}
