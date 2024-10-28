@@ -1,8 +1,18 @@
-{
-  "title": "Food Item",
-  "price": 10.0,
-  "image": "https://example.com/image.jpg",
-  "rating": {
-    "rate": 4.5
+[
+  {
+    "title": "Food Item 1",
+    "price": 10.0,
+    "image": "https://example.com/image1.jpg",
+    "rating": {
+      "rate": 4.5
+    }
+  },
+  {
+    "title": "Food Item 2",
+    "price": 15.0,
+    "image": "https://example.com/image2.jpg",
+    "rating": {
+      "rate": 4.0
+    }
   }
-}
+]
